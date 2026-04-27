@@ -12,7 +12,7 @@ The focus of this project is to implement **Natural Language Processing (NLP)** 
 
   * Positive
   * Negative
-  * Neutral
+
 * Analyze public perception from textual data
 * Implement machine learning for real-world case study
 
